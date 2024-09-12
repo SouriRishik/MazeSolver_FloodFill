@@ -42,7 +42,18 @@ https://youtu.be/ktn3C7aXVR0?t=687
 - Open QuickStart menu and follow the steps to get started.
 - Build command: g++ API.cpp Main.cpp
 
+# Result
+
+- The bot makes 3 rounds from start to destination and back
+- It takes a different route each time exploring the maze
+- In the end it returns the shortest path to solve the maze
+
+![Screenshot (3)](https://github.com/user-attachments/assets/4eeb0db4-1bb9-46d2-973b-e0ede71765c5)
 
 
 
+![Screenshot (4)](https://github.com/user-attachments/assets/9572ae1f-93fa-483c-aa27-3d12a0b419ae)
 
+
+
+![Screenshot (5)](https://github.com/user-attachments/assets/796b6920-a2b9-425d-a22e-895ae03ea70a)
