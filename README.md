@@ -21,8 +21,7 @@ A maze solving code using the algorithm floodfill and implemented on mms simulat
 - If the bot faces a wall on its path to the shorter number in such a way that there are no accessible neighbours with a smaller number, floodfill is run again with the newly known wall data and the manhattan distances are updated.
 - NOTE: The bot starts with zero maze data and stores it as it moves.
 
-<iframe width="928" height="522" src="https://www.youtube.com/embed/ktn3C7aXVR0" title="Micromouse 2022 Lecture 6: Floodfill" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+https://youtu.be/ktn3C7aXVR0?t=687
 
 ## My Implementation:
 
