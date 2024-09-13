@@ -1,7 +1,7 @@
 # MazeSolver
 A maze solving code using the algorithm floodfill and implemented on mms simulator
 
-# **QUESTION STATEMENT:**
+# **PROBLEM STATEMENT:**
 
 - Build a bot to solve a 16 by 16 maze.
 - The start cell can be any of the corners.
